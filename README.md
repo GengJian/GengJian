@@ -1,4 +1,3 @@
-### Hi there, I'm [Soul Geng](https://www.jianshu.com/u/dd76c0a54d82)! 👋
 
 <!--
 **GengJian/GengJian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +21,6 @@ Here are some ideas to get you started:
 
 
 [![GengJian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GengJian&count_private=true&show_icons=true&bg_color=E56447,C75C64,AE557B,904E95&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+
+* Hi there, My Blog is [Soul Geng](https://www.jianshu.com/u/dd76c0a54d82)! 👋
