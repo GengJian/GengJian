@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  > 醉后不知天在水，满船清梦压星河。
  
-[![GengJian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GengJian&layout=compact&bg_color=904E95,AE557B,C75C64,E56447&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![GengJian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GengJian&layout=compact&bg_color=904E95,AE557B,C75C64,E56447&title_color=FFFFFF&text_color=FFFFFF?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GengJian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GengJian&count_private=true&show_icons=true&bg_color=E56447,C75C64,AE557B,904E95&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
